@@ -1,0 +1,22 @@
+{
+  "cats": [
+    {
+      "name": "Ginger",
+      "age": 3,
+      "breed": "British Shorthair",
+      "favoriteToys": [
+        {"name": "Mouse", "type": "plush"},
+        {"name": "Ball", "type": "rubber"}
+      ]
+    },
+    {
+      "name": "Cinnamon",
+      "age": 5,
+      "breed": "Siamese",
+      "favoriteToys": [
+        {"name": "Laser pointer", "type": "laser"},
+        {"name": "Feather wand", "type": "feather"}
+      ]
+    }
+  ]
+}
